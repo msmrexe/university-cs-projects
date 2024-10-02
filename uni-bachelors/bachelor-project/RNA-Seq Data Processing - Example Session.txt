@@ -1,0 +1,167 @@
+msmrexe@Mers-TUF:~$ ls
+anaconda3  Documents  Music     proj    snap       Videos
+Desktop    Downloads  Pictures  Public  Templates
+msmrexe@Mers-TUF:~$ cd proj/E-GEOD-35469.rap/
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ ls
+SRR403884.fastq.gz       SRR403885_Processed.txt  SRR403891.fastq.gz
+SRR403884_Processed.txt  SRR403890.fastq.gz       SRR403891_Processed.txt
+SRR403885.fastq.gz       SRR403890_Processed.txt
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ fastqc SRR403884.fastq.gz
+Started analysis of SRR403884.fastq.gz
+Approx 5% complete for SRR403884.fastq.gz
+Approx 10% complete for SRR403884.fastq.gz
+Approx 15% complete for SRR403884.fastq.gz
+Approx 20% complete for SRR403884.fastq.gz
+Approx 25% complete for SRR403884.fastq.gz
+Approx 30% complete for SRR403884.fastq.gz
+Approx 35% complete for SRR403884.fastq.gz
+Approx 40% complete for SRR403884.fastq.gz
+Approx 45% complete for SRR403884.fastq.gz
+Approx 50% complete for SRR403884.fastq.gz
+Approx 55% complete for SRR403884.fastq.gz
+Approx 60% complete for SRR403884.fastq.gz
+Approx 65% complete for SRR403884.fastq.gz
+Approx 70% complete for SRR403884.fastq.gz
+Approx 75% complete for SRR403884.fastq.gz
+Approx 80% complete for SRR403884.fastq.gz
+Approx 85% complete for SRR403884.fastq.gz
+Approx 90% complete for SRR403884.fastq.gz
+Approx 95% complete for SRR403884.fastq.gz
+Analysis complete for SRR403884.fastq.gz
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ fastqc SRR403891.fastq.gz
+Started analysis of SRR403891.fastq.gz
+Approx 5% complete for SRR403891.fastq.gz
+Approx 10% complete for SRR403891.fastq.gz
+Approx 15% complete for SRR403891.fastq.gz
+Approx 20% complete for SRR403891.fastq.gz
+Approx 25% complete for SRR403891.fastq.gz
+Approx 30% complete for SRR403891.fastq.gz
+Approx 35% complete for SRR403891.fastq.gz
+Approx 40% complete for SRR403891.fastq.gz
+Approx 45% complete for SRR403891.fastq.gz
+Approx 50% complete for SRR403891.fastq.gz
+Approx 55% complete for SRR403891.fastq.gz
+Approx 60% complete for SRR403891.fastq.gz
+Approx 65% complete for SRR403891.fastq.gz
+Approx 70% complete for SRR403891.fastq.gz
+Approx 75% complete for SRR403891.fastq.gz
+Approx 80% complete for SRR403891.fastq.gz
+Approx 85% complete for SRR403891.fastq.gz
+Approx 90% complete for SRR403891.fastq.gz
+Approx 95% complete for SRR403891.fastq.gz
+Analysis complete for SRR403891.fastq.gz
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ fastqc SRR403890.fastq.gz
+Started analysis of SRR403890.fastq.gz
+Approx 5% complete for SRR403890.fastq.gz
+Approx 10% complete for SRR403890.fastq.gz
+Approx 15% complete for SRR403890.fastq.gz
+Approx 20% complete for SRR403890.fastq.gz
+Approx 25% complete for SRR403890.fastq.gz
+Approx 30% complete for SRR403890.fastq.gz
+Approx 35% complete for SRR403890.fastq.gz
+Approx 40% complete for SRR403890.fastq.gz
+Approx 45% complete for SRR403890.fastq.gz
+Approx 50% complete for SRR403890.fastq.gz
+Approx 55% complete for SRR403890.fastq.gz
+Approx 60% complete for SRR403890.fastq.gz
+Approx 65% complete for SRR403890.fastq.gz
+Approx 70% complete for SRR403890.fastq.gz
+Approx 75% complete for SRR403890.fastq.gz
+Approx 80% complete for SRR403890.fastq.gz
+Approx 85% complete for SRR403890.fastq.gz
+Approx 90% complete for SRR403890.fastq.gz
+Approx 95% complete for SRR403890.fastq.gz
+Analysis complete for SRR403890.fastq.gz
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ cd ..
+msmrexe@Mers-TUF:~/proj$ ls
+'E-GEOD-35469.rap'   E-GEOD-60939.all
+msmrexe@Mers-TUF:~/proj$ cd E-GEOD-60939.all/
+msmrexe@Mers-TUF:~/proj/E-GEOD-60939.all$ ls
+SRR1561676.fastq.gz  SRR1561678.fastq.gz  SRR1561680.fastq.gz
+SRR1561677.fastq.gz  SRR1561679.fastq.gz  SRR1561681.fastq.gz
+msmrexe@Mers-TUF:~/proj/E-GEOD-60939.all$ fastqc SRR1561676.fastq.gz
+Started analysis of SRR1561676.fastq.gz
+Approx 5% complete for SRR1561676.fastq.gz
+Approx 10% complete for SRR1561676.fastq.gz
+Approx 15% complete for SRR1561676.fastq.gz
+Approx 20% complete for SRR1561676.fastq.gz
+Approx 25% complete for SRR1561676.fastq.gz
+Approx 30% complete for SRR1561676.fastq.gz
+Approx 35% complete for SRR1561676.fastq.gz
+Approx 40% complete for SRR1561676.fastq.gz
+Approx 45% complete for SRR1561676.fastq.gz
+Approx 50% complete for SRR1561676.fastq.gz
+Approx 55% complete for SRR1561676.fastq.gz
+Approx 60% complete for SRR1561676.fastq.gz
+Approx 65% complete for SRR1561676.fastq.gz
+Approx 70% complete for SRR1561676.fastq.gz
+Approx 75% complete for SRR1561676.fastq.gz
+Approx 80% complete for SRR1561676.fastq.gz
+Approx 85% complete for SRR1561676.fastq.gz
+Approx 90% complete for SRR1561676.fastq.gz
+Approx 95% complete for SRR1561676.fastq.gz
+Analysis complete for SRR1561676.fastq.gz
+msmrexe@Mers-TUF:~/proj/E-GEOD-60939.all$ cd ..
+msmrexe@Mers-TUF:~/proj$ tar -xvzf hg38_genome.tar.gz
+hg38/
+hg38/make_hg38.sh
+hg38/genome.8.ht2
+hg38/genome.5.ht2
+hg38/genome.7.ht2
+hg38/genome.6.ht2
+hg38/genome.4.ht2
+hg38/genome.3.ht2
+hg38/genome.1.ht2
+hg38/genome.2.ht2
+msmrexe@Mers-TUF:~/proj$ cd E-GEOD-35469.rap/
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ gzip -d SRR403884.fastq.gz 
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ gzip -d SRR403885.fastq.gz 
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ gzip -d SRR403890.fastq.gz 
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ gzip -d SRR403891.fastq.gz 
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ hisat2 -x ../hg38/genome -U SRR403884.fastq,SRR403885.fastq,SRR403890.fastq,SRR403891.fastq -S E-GEOD-35469.sam
+86184132 reads; of these:
+  86184132 (100.00%) were unpaired; of these:
+    70708789 (82.04%) aligned 0 times
+    7179077 (8.33%) aligned exactly 1 time
+    8296266 (9.63%) aligned >1 times
+17.96% overall alignment rate
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ cd ..
+msmrexe@Mers-TUF:~/proj$ cd E-GEOD-60939.all/
+msmrexe@Mers-TUF:~/proj/E-GEOD-60939.all$ ls
+SRR1561676_fastqc.html  SRR1561677.fastq.gz  SRR1561680.fastq.gz
+SRR1561676_fastqc.zip   SRR1561678.fastq.gz  SRR1561681.fastq.gz
+SRR1561676.fastq.gz     SRR1561679.fastq.gz  windows-persian-keyboard-for-linux
+msmrexe@Mers-TUF:~/proj/E-GEOD-60939.all$ hisat2 -x ../hg38/genome -U SRR1561677.fastq.gz,SRR1561680.fastq.gz,SRR1561678.fastq.gz,SRR1561681.fastq.gz,SRR1561676.fastq.gz,SRR1561679.fastq.gz -S E-GEOD-60939.sam -p 8
+Error while flushing and closing output
+terminate called after throwing an instance of 'int'
+Error while flushing and closing output
+Aborted (core dumped)
+(ERR): hisat2-align exited with value 134
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ samtools view -bS -o E-GEOD-35469.bam E-GEOD-35469.sam
+
+	NOT NEEDED?
+	msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ samtools sort E-GEOD-35469.bam -o E-GEOD-35469.sorted.bam
+	[bam_sort_core] merging from 26 files and 1 in-memory blocks...
+	msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ samtools index E-GEOD-35469.sorted.bam
+
+
+	NOTE: bowtie2 -q --phred64 -p 4 -x GRCh37.74 -U reads1.fq | samtools view -bS - | samtools sort -alignments.sorted
+	
+	SHOULD BE [?]: hisat2 -q -p 8 -x ../hg38/genome -U SRR403884.fastq,SRR403885.fastq,SRR403890.fastq,SRR403891.fastq -S - | samtools view -bS - | samtools sort - | samtools index - -o E-GEOD-35469.sorted.bam
+	
+msmrexe@Mers-TUF:~/proj$ gzip -dv hg38.anot.gtf.gz
+hg38.anot.gtf.gz:	
+gzip: hg38.anot.gtf.gz: invalid compressed data--format violated
+msmrexe@Mers-TUF:~/proj$ wget "https://ftp.ensembl.org/pub/release-110/gtf/homo_sapiens/Homo_sapiens.GRCh38.110.gtf.gz" -o hg38.anot.gtf.gz
+msmrexe@Mers-TUF:~/proj$ gunzip hg38.anot.gtf.gz 
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ samtools sort -n -o E-GEOD-35469.bam E-GEOD-35469.bam
+[bam_sort_core] merging from 26 files and 1 in-memory blocks...
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ htseq-count -f bam -q E-GEOD-35469.bam ../hg38.anot.gtf > E-GEOD-35469.count
+[E::idx_find_and_load] Could not retrieve index file for 'E-GEOD-35469.bam'
+[E::idx_find_and_load] Could not retrieve index file for 'E-GEOD-35469.bam'
+The alignment file has no chromosomes in common with the GFF/GTF file. This will result in zero feature counts. Please check if the references match, e.g. if you are using 'chr1' or '1' as chromosome names.
+100000 alignment records processed.
+msmrexe@Mers-TUF:~/proj/E-GEOD-35469.rap$ htseq-count -f bam -r pos E-GEOD-35469.sorted.bam ../hg38.anot.gtf > E-GEOD-35469.pos.count -q
+The alignment file has no chromosomes in common with the GFF/GTF file. This will result in zero feature counts. Please check if the references match, e.g. if you are using 'chr1' or '1' as chromosome names.
+100000 alignment records processed.
+
