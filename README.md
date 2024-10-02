@@ -1,5 +1,5 @@
 # CS Learning Projects
-This repository is intended for my personal storing and sharing of select computer science projects (*theoretical or practical*) that I have dabbled in as I learned more in this abundant field, since I unfortunately lost much of my work to damaged hard drives (*oh, the tragedy of life*).
+This repository is intended for my personal storing and sharing of select computer science projects (*theoretical or practical*) that I have dabbled in as I learned and practiced more in this abundant field, since I unfortunately lost much of my work to damaged hard drives (*oh, the tragedy of life*).
 
 But for any who might be interested in reviewing or using any of my work, feel completely free to step in.
 
