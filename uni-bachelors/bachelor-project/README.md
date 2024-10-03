@@ -16,9 +16,11 @@ To undrestand the details and methods of using Deep Learning in indentification 
 - Machine Learning
 - Deep Learning
 - Support Vector Machines
-- Bioinformatics Basics
 - Cell Biology
+- Bioinformatics Basics
 - Gene Expression and DEGs
+- Gene Expression Measurement Technologies
+- DEG Analysis Tools
 - Cell Signalling Pathways
 - Pathway Analysis Methods
 - Example Use of ML in Pathway Analysis
