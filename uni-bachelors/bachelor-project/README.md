@@ -7,7 +7,7 @@ With a clearer direction established, the first step of the roadmap was selected
 ## Project Goals
 
 - **Learning Goal:** Understanding the Usage of Machine Learning in Cell Signalling Pathway Analysis (Seminar)
-- **Implementation Goal:** Practical Methods for Analysing Differentially Expressed Genes (Guidebook)
+- **Implementation Goal:** Developing A Practical Guide for Identifying Differentially Expressed Genes (Guidebook)
 
 ## Foundational Study
 
