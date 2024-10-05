@@ -1,6 +1,6 @@
 # Project Overview
 
-This project was defined as an additional final project for the Master's course of Matrix Computations (4021) at Sharif University of Technology. The code was implemented using Python programming language but with minimal usage of predefined Python functions and libraries. To import other modules and run all other files, open "Performance Comparison.py"
+This project was defined as an additional final project for the Master's course of Matrix Computations (2023 | Semester 4021) at Sharif University of Technology. The code was implemented using Python programming language but with minimal usage of predefined Python functions and libraries. To import other modules and run all other files, open "Performance Comparison.py"
 
 ## Topic
 
