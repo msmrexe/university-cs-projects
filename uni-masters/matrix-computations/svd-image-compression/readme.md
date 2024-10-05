@@ -1,6 +1,6 @@
 # Project Overview
 
-This project was defined as the main final project for the Master's course of Matrix Computations (4021) at Sharif University of Technology. The code was implemented using Python programming language but with minimal usage of predefined Python functions and libraries.
+This project was defined as the main final project for the Master's course of Matrix Computations (2023 | Semester 4021) at Sharif University of Technology. The code was implemented using Python programming language but with minimal usage of predefined Python functions and libraries.
 
 ## Topic
 
