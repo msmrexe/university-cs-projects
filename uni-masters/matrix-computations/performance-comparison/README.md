@@ -4,7 +4,7 @@ This project was defined as an additional final project for the Master's course 
 
 ## Topic
 
-Implementation of Iterative Methods for Solving Ax = b
+Implementation and Perfomance Comparison of 5 Iterative Methods for Solving Ax = b
 
 ## Description
 
