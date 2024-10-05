@@ -1,6 +1,6 @@
 # Project Overview
 
-As the final project for the Bachelor's course of Computer Networking (4012) at University of Isfahan, students were tasked with implementing the TCP protocol using Python Socket Programming with any number of custom features. These two projcets were therefore personally defined as two variations of the goal.
+As the final project for the Bachelor's course of Computer Networking (2023 | Semester 4012) at University of Isfahan, students were tasked with implementing the TCP protocol using Python Socket Programming with any number of custom features. These two projcets were therefore personally defined as two variations of the goal.
 
 ## Topic
 
