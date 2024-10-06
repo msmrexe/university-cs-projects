@@ -4,7 +4,7 @@ One of the primary projects for the Bachelor's course in Artificial Intelligence
 
 ## Topic
 
-Implementation of AI Search Algorithms in A Pacman Game Using Python
+A Python Implementation of AI Search Algorithms in A Pacman Game
 
 ## Description
 
