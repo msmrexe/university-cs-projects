@@ -4,7 +4,7 @@ As the final project for the Bachelor's course of Computer Networking (2023 | Se
 
 ## Topic
 
-Implementation of TCP Protocol With Custom Features Using Python Socket Programming
+A Python Implementation of TCP Protocol With Custom Features Using Socket Programming
 
 Personal Variations:
 - Implementation of a Two-Way Chat Betweeem Client and Server + Highspeed Sharing of Any File Format
